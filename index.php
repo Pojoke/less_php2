@@ -30,5 +30,5 @@ $footer = <<< EOD
 <footer> $footer_year</footer>
 </html>
 EOD;
-echo"$header $body $footer ";
-?>
+echo"$header, $body, $footer ";
+?>;
